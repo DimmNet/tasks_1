@@ -1,0 +1,8 @@
+{
+    "name": "learn/tasks",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
